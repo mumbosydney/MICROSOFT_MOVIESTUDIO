@@ -1,5 +1,5 @@
 Microsoft Movie Analysis
-Author: Sydney Mumbo
+##Author: Sydney Mumbo
 
 #Overview
 Microsoft have decided to create a new movie studio and require more insight into which types of films are doing best at the box office. This project uses descriptive statistical analysis on data gathered from IMDb website to gain insight into which combination of genres topped the box office in these areas. Three seperate datasets were used for this analysis to gain insight into which combination genres of movies had the top average ratings and number of votes. The results of the top 10 combination genres in averating rating is Comedy,Documentary and Fantasy and number of votes was clearly the combination Action, Fantasy & War, with adventure being present in the majority of the top 10 of the 2 categories. My recommendation for which type of Movie to produce would be Action, Fantasy & War as this is the most predominant combination in the analysis. Drama was also clearly a strong genre for popular successful movies and I would recommend other genres being paired with  Drama during production.
