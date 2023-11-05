@@ -1,4 +1,4 @@
-#Microsoft Movie Analysis
+Microsoft Movie Analysis
 Author: Sydney Mumbo
 
 #Overview
